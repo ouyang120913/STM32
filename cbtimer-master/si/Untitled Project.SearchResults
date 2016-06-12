@@ -1,0 +1,5 @@
+---- LIST_HEAD Matches (4 in 3 files) ----
+Cbtimer.c:LIST_HEAD(ready);  
+Cbtimer.c:LIST_HEAD(wait);
+List.h:#define LIST_HEAD(name) \
+List_gnu.h:#define LIST_HEAD(name) \
